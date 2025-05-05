@@ -21,9 +21,9 @@ Aprenda os fundamentos do AWS Identity and Access Management (IAM) por meio de u
 
 ---
 
-## 🧩 Cenário de Negócio
+## 🏢 Cenário de Negócio
 
-Sua empresa está adotando AWS em larga escala.  
+A empresa AnyCloud Solutions está adotando AWS em larga escala.  
 Você deve garantir que os membros da equipe tenham **acesso adequado baseado em suas funções**:
 
 | Usuário  | Grupo         | Permissões                                                             |
@@ -100,7 +100,7 @@ EC2-Admin política nesse momento — ela será criada manualmente como polític
 
 ---
 
-## 🧑‍🤝‍🧑 ETAPA 3 – Adicionar Usuários aos Grupos
+## 👥 ETAPA 3 – Adicionar Usuários aos Grupos
 
 Para cada grupo:
 
